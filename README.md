@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm kathawut mangkalad</h1>
-<h3 align="center">Tester from Thailand</h3>
+<h3 align="center">Tester from Thailand <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
 
-- 🔭 I’m currently working on [20Scoops CNX](https://20scoopscnx.com)
-
+- 👨‍💻 I’m currently working on [20Scoops CNX](https://20scoopscnx.com)
 - 🌱 I’m currently learning **Automate testing**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,4 +11,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
+[![Katha911's github stats](https://github-readme-stats.vercel.app/api?username=katha911&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/katha911/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katha911&theme=tokyonight)](https://github.com/katha911/github-readme-stats)
