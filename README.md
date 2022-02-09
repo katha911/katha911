@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kathawut mangkalad</h1>
-<h3 align="center">Tester from Thailand <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
+<h3 align="center">QA from 20ScoopsCNX<img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
 
 - 👨‍💻 I’m currently working on [20Scoops CNX](https://20scoopscnx.com)
 - 🌱 I’m currently learning **Automate testing**
