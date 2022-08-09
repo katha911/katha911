@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm kathawut mangkalad</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+</p>
 <h2 align="center">QA from 20Scoops CNX</h2>
 
 - 👨‍💻 I’m currently working on [20Scoops CNX](https://20scoopscnx.com)
