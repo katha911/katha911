@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </p>
-<h2 align="center">QA from 20Scoops CNX</h2>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=QA%2020Scoop CNX&fontSize=30&animation=blink" />
+</p>
 
 - 👨‍💻 I’m currently working on [20Scoops CNX](https://20scoopscnx.com)
 - 🌱 I’m currently learning **Automate testing**
