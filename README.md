@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </p>
-<p align="center">
-<img width="1600" src="https://capsule-render.vercel.app/api?type=wave&color=e62020&height=200&section=header&text=Quality Assurance%20from%2020Scoop CNX&fontSize=20&animation=blink&fontAlignY=25"/>
-</p>
 
 
 - 👨‍💻 I’m currently working on [20Scoops CNX](https://20scoopscnx.com)
@@ -23,5 +20,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katha911&theme=tokyonight)](https://github.com/katha911/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katha911&theme=tokyonight" alt="katha911" /></a> </p>
-<img width="1600" src="https://capsule-render.vercel.app/api?type=wave&color=e62020&height=200&section=footer"/>
-</p>
