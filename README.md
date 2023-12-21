@@ -18,7 +18,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 ## <a name="CV"></a>CV
 
-You can download my CV as a [PDF from my Google Drive.](https://drive.google.com/file/d/1yil3BXPwA83fAju5P9RM3M0yVFfWAbtG/view?usp=sharing)
+You can download my CV as a [PDF from my Google Drive.](https://drive.google.com/file/d/18TmB9Pg2jgu1SEASLInVwTDS7QtbWqma/view?usp=sharing)
 
 ## <a name="skills"></a>Skills
 
