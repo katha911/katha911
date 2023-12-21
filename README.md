@@ -41,6 +41,7 @@ You can download my CV as a [PDF from my Google Drive.](https://drive.google.com
 - able to prepare comprehensive bug reports and provide detailed session reports
 
 ## <a name="Tools"></a>Tools
+
 - Cypress
   - Create automate testing
   - Generate report for automate testing
