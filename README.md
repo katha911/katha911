@@ -1,7 +1,11 @@
 ## Software QA
-- **[Skill](#skill)**
-
-## About me
+- **[About me](#about)**
+- **[CV](#CV)**
+- **[Skills](#skills)**
+- **[Tools](#Tools)**
+- **[Contact](#Contact)**
+  
+## <a name="about"></a>About me
 I am a positive-thinking person and feels excited about doing new things, ready to learn new things.
 
 I graduated from University of Phayao with a degree in Software Engineering, from the Faculty of Information Technology and Communication.
@@ -13,21 +17,37 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 ## <a name="CV"></a>CV
 You can download my CV as a [PDF from my Google Drive.](https://drive.google.com/file/d/1yil3BXPwA83fAju5P9RM3M0yVFfWAbtG/view?usp=sharing)
 
+## <a name="skills"></a>Skills
 
+**Automate testing**
+- Create the automation test for software and finalizing system procedures ( website )
+- Manage functional and non-functional automated testing code
+- Build automation into CI/CD deployments on a cloud infrastructure
 
-## <a name="skill"></a>Skill
-ฟหากฟหสกสฟหก
-หกสฟสหก
-ฟหกสฟสหก
-สฟหกสฟสหก
-สฟหกสฟหก
-ฟ
-หก
-ฟห
-กฟ
-หก
-ฟห
-ก
-หฟก
-ฟ
-หก
+**Manual testing**
+- Gained hands-on experience by testing website and application
+- Performing testing methods and managing the QA process
+- Report a issue
+
+**API testing**
+- I have knowledge about using REST APIs.
+- Know how to manipulate requests and create test cases using the postman tool
+- I can integrate API testing into work using the Cypress tool.
+  
+**Test documentation**
+- can create test cases and checklists and know how and in which situations to use them effectively
+- able to prepare comprehensive bug reports and provide detailed session reports
+
+## <a name="Tools"></a>Tools
+- Cypress
+  - Create automate testing
+  - Generate report for automate testing
+- Postman
+  - Test API functionality
+- Robot  framework
+- Katalon
+- Jmeter
+  - Load test
+
+## <a name="Contact"></a>Contact me
+- Email : tamzaa51@gmail.com
