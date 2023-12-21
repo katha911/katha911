@@ -1,12 +1,12 @@
 ## Software QA
 
-- **[About me](#about)**
+- **[About me](#aboutme)**
 - **[CV](#CV)**
 - **[Skills](#skills)**
 - **[Tools](#Tools)**
 - **[Contact](#Contact)**
   
-## <a name="about"></a>About me
+## <a name="aboutme"></a>About me
 
 I am a positive-thinking person and feels excited about doing new things, ready to learn new things.
 
@@ -53,5 +53,5 @@ You can download my CV as a [PDF from my Google Drive.](https://drive.google.com
 - Jmeter
   - Load test
 
-## <a name="Contact"></a>Contact me
+## <a name="Contact"></a>Contact
 - Email : tamzaa51@gmail.com
