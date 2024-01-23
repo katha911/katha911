@@ -1,4 +1,4 @@
-## Software Tester
+## Software QA
 
 - **[About me](#aboutme)**
 - **[CV](#CV)**
