@@ -1,10 +1,12 @@
-## Software QA
+## Software Tester
 
 - **[About me](#aboutme)**
 - **[CV](#CV)**
 - **[Skills](#skills)**
 - **[Tools](#Tools)**
+- **[Experience](#Experiences)**
 - **[Contact](#Contact)**
+
   
 ## <a name="aboutme"></a>About me
 
@@ -14,7 +16,7 @@ I graduated from University of Phayao with a degree in Software Engineering, fro
 
 Currently, I aim to apply my knowledge and analytical skills in software testing to seek new challenges in my professional endeavors.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a senior-level software qa in 2 years.
+I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a senior-level software tester in 2 years.
 
 ## <a name="CV"></a>CV
 
@@ -44,7 +46,7 @@ You can download my CV as a [PDF from my Google Drive.](https://drive.google.com
 ## <a name="Tools"></a>Tools
 
 - Cypress
-  - Create automate testing
+  - Create automate testing (E2E , API)
   - Generate report for automate testing
 - Postman
   - Test API functionality
@@ -52,6 +54,11 @@ You can download my CV as a [PDF from my Google Drive.](https://drive.google.com
 - Katalon
 - Jmeter
   - Load test
+
+## <a name="Experiences"></a>"Experiences
+- Payment gateway (Website)
+- E-commerce (Website)
+- Health (Website , Application)
 
 ## <a name="Contact"></a>Contact
 - Email : kathawut.m.forwork@gmail.com
